@@ -1,0 +1,43 @@
+- slug: hamlet
+  title: "Hamlet"
+  venue: "Buxton International Festival"
+  year: 2025
+  hero: "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/8f4b125e-3b6b-45c9-b20e-8b33d7c5c9a5/DSC_4006.jpg"
+  permalink: "/work/hamlet/"
+  blurb: "Minimalist, contemporary-gothic staging of Thomas’s Hamlet; psychologically focused with searing performances."
+  images:
+    - "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/8f4b125e-3b6b-45c9-b20e-8b33d7c5c9a5/DSC_4006.jpg"
+    - "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/1df4a91a-4b0e-4a48-8a39-5a397a3d5a4a/DSC_4093.jpg"
+
+- slug: queen-of-spades
+  title: "The Queen of Spades"
+  venue: "Garsington Opera"
+  year: 2025
+  hero: "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/c0b9a81a-95e6-4d2c-9f87-38d0670b09ef/250526+Queen+of+Spades+GO-516+adj.jpg"
+  permalink: "/work/queen-of-spades/"
+  blurb: "Late-18th-century gothic ghost story with multilayered psychological storytelling."
+  images:
+    - "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/c0b9a81a-95e6-4d2c-9f87-38d0670b09ef/250526+Queen+of+Spades+GO-516+adj.jpg"
+    - "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/8c7a041f-3b0f-4592-9d2b-3455e350e4f9/250526+Queen+of+Spades+GO-471+adj.jpg"
+
+- slug: aci-galatea-e-polifemo
+  title: "Aci, Galatea e Polifemo"
+  venue: "London Handel Festival"
+  year: 2024
+  hero: "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/0e7c753b-3ee8-4de4-bf57-2a265a3adf9e/IMG_7651.jpg"
+  permalink: "/work/aci-galatea-e-polifemo/"
+  blurb: "Site-specific film-studio concept at Trinity Buoy Wharf; explores power, creativity, and control."
+  images:
+    - "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/0e7c753b-3ee8-4de4-bf57-2a265a3adf9e/IMG_7651.jpg"
+    - "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/5f9d18f4-3730-4a7f-8e3d-6619fd0d1b17/IMG_7795.jpg"
+
+- slug: rusalka
+  title: "Rusalka"
+  venue: "Garsington Opera & Edinburgh International Festival"
+  year: 2022
+  hero: "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/d1e1b3a9-49f1-4a5e-8c5e-7a3a52dc6a54/220616+Rusalka+GO-33+adj.jpg"
+  permalink: "/work/rusalka/"
+  blurb: "Immersive, poetic staging aligned to the score."
+  images:
+    - "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/d1e1b3a9-49f1-4a5e-8c5e-7a3a52dc6a54/220616+Rusalka+GO-33+adj.jpg"
+    - "https://images.squarespace-cdn.com/content/v1/65dec0a1d2c0a75e70edb0a5/0cf7f29d-56f8-4f21-97d4-42ef2d59365a/220616+Rusalka+GO-381+adj.jpg"

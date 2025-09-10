@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header>
+    <nav class="site-nav">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+    </nav>
+  </header>
+  <main class="container">
+    {{ content }}
+  </main>
+  <footer>
+    <p>© {{ "now" | date: "%Y" }} {{ site.title }} · <a href="mailto:jack@shadwellopera.co.uk">jack@shadwellopera.co.uk</a></p>
+  </footer>
+</body>
+</html>

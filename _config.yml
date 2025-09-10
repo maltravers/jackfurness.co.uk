@@ -1,0 +1,15 @@
+title: "Jack Furness"
+description: "Opera & theatre director — selected work, projects, and contact"
+url: ""          # set to https://<username>.github.io or your custom domain
+baseurl: ""      # leave empty for root
+theme: minima
+markdown: kramdown
+permalink: /:title/
+collections:
+  works:
+    output: true
+    permalink: /work/:title/
+minima:
+  social_links:
+    - { platform: email,  user_url: "mailto:jack@shadwellopera.co.uk" }
+google_analytics:
